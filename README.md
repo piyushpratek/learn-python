@@ -1,6 +1,6 @@
 # Learn Python
 
-THis Repo is for learning python
+This Repo is for learning python
 
 # Snippets generated automatically via autodocs
 
