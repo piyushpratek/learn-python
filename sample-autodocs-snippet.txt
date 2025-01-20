@@ -1,0 +1,2 @@
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./relative/path/to/code.js) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
